@@ -1,0 +1,29 @@
+{
+  "name": "crew",
+  "version": "0.0.1",
+  "description": "Compare collective's crew candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cofounders/crew.git"
+  },
+  "keywords": [
+    "cfsg",
+    "crew",
+    "cofounder",
+    "cofounders"
+  ],
+  "author": "Sebastiaan Deckers <seb@cf.sg>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cofounders/crew/issues"
+  },
+  "homepage": "https://github.com/cofounders/crew",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
